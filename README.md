@@ -84,9 +84,3 @@ Everything runs on **your own machine** 🏠: the app's code sends nothing to an
 - 😀 [emojis](https://pypi.org/project/emojis/) – emoji extraction
 
 ---
-
-<div align="center">
-
-Made with ☕ and way too many 😂
-
-</div>

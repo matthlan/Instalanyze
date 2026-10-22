@@ -40,8 +40,6 @@ pip install -r requirements.txt
 pip install streamlit
 ```
 
-> ⚠️ **Heads up:** `app.py` imports `streamlit`, but it is not listed in `requirements.txt`, so it is installed separately above. Adding it to `requirements.txt` is recommended.
-
 ### ▶️ Run it
 
 ```bash
